@@ -3,6 +3,7 @@
     v-model="value"
     :data="data"
     multiple
+    filterable
     :render-after-expand="false"
     style="width: 240px"
   />

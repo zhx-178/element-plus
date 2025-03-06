@@ -3,6 +3,7 @@
     v-model="value"
     :data="data"
     filterable
+    multiple
     style="width: 240px"
   />
   <el-divider />
